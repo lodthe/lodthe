@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://github.com/lodthe/lodthe/blob/main/slowparrot.gif?raw=true">
-</p>
++++
+# This title is used as the og:title on Hugo's internal
+# opengraph structured data template on the home page.
+# See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+title = "Igor Baliuk"
++++
 
 Hi, I'm Igor!
 
@@ -11,6 +14,3 @@ I used to solve competitive programming contests early, then I switched my focus
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/baliukigor)
 - baliuk.{my_name}@gmail.com
-
-
-![](https://komarev.com/ghpvc/?username=lodthe)
