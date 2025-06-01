@@ -5,22 +5,22 @@ hide_navbar = true
 hide_title = true
 +++
 
-<center><h2>IGOR BALIUK</h2></center>
+<center><h2>Igor Baliuk</h2></center>
 
 <p class="contact" align="center" style="margin: 5px;">
     <img src="/icons/mail.svg"> <a href="mailto:baliuk.igor@gmail.com">baliuk.igor@gmail.com</a>
-    <img src="/icons/linkedin.svg"> <a href="https://linkedin.com/in/baliukigor">ln/baliukigor</a>
+    <img src="/icons/linkedin.svg"> <a href="https://linkedin.com/in/baliukigor">linkedin/baliukigor</a>
     <img src="/icons/github.svg"> <a href="https://github.com/lodthe">gh/lodthe</a>
-    <img src="/icons/cellphone.svg"> <a href="tel:995-55-115-44-69">+995 55 115 44 69</a>
+    <img src="/icons/cellphone.svg"> <a href="tel:44-077-611-967-55">+44 077 611 967 55</a>
     <img src="/icons/location.svg"> London, UK
 </p>
 
 <div class="section">
 <h3>SUMMARY</h3>
 
-Experienced Platform Engineer specializing in Service Mesh solutions, observability platforms, and distributed systems. Strong background in backend development and cloud-native solutions. Passionate about improving developer experience and leading large-scale infrastructure projects. Currently seeking roles in SRE, Systems Engineering, or related fields.
+<p>Experienced Software Engineer specializing in Backend Engineering, Systems Reliability, Observability, and Distributed Systems. Strong background in backend development and cloud-native solutions. Passionate about improving developer experience and leading large-scale infrastructure projects. Currently seeking roles in Backend Engineering, SRE, DevOps, or related fields.</p>
 
-I hold a UK Global Talent visa, visa sponsorship is not needed.
+I hold a UK Global Talent visa, visa sponsorship is not required.
 
 </div>
 
@@ -76,7 +76,8 @@ Chatex was a cryptocurrency exchange startup that grew to 75+ employees before c
 <ul>
     <li>Designed and implemented an A/B testing and analytics platform to improve product decision-making.</li>
     <li>Developed a public API, enabling the launch of a mobile app that grew the user base by 10%.</li>
-    <li>Built blockchain connectors (Bitcoin, Ethereum, etc.) and optimized fund transfer algorithms.</li>
+    <li>Built blockchain connectors (Bitcoin, Ethereum) and optimized fund transfer algorithms, reducing fees by 20%.</li>
+    <!-- <li>Developed a payment gateway that allowed partners to use Chatex as a payment method (revenue +5%).</li> -->
     <li>Led the migration from a monolithic architecture to microservices, improving scalability.</li>
 </ul>
 </div>
@@ -101,8 +102,8 @@ Chatex was a cryptocurrency exchange startup that grew to 75+ employees before c
 <!-- <hr> -->
 
 <ul>
-    <li><strong>Proficient</strong>: Go, Kubernetes, Istio, PostgreSQL, ClickHouse, OpenTelemetry, ELK, and other observability tools.</li>
-    <li><strong>Familiar</strong>: Kafka, Redis, ArgoCD, Python, and C++ (can read).</li>
+    <li><strong>Proficient</strong>: Go, Kubernetes, PostgreSQL, ClickHouse, Istio, OpenTelemetry, ELK, and other infra-tools</li>
+    <li><strong>Familiar</strong>: Kafka, Redis, MongoDB, ArgoCD, Python, C++</li>
 </ul>
 </div>
 
@@ -110,12 +111,12 @@ Chatex was a cryptocurrency exchange startup that grew to 75+ employees before c
 <h3>EDUCATION</h3>
 
 <strong>B.Sc. in Applied Mathematics and Computer Science</strong> &mdash; <em>Higher School of Economics</em>, Moscow, Russia<br>
-Specialized in Distributed Systems in the final two years. GPA 4.7 / 5.0.
+Specialized in Distributed Systems in the final two years. GPA 4.7 / 5.0, ranking top 2%.
 
 </div>
 
 <div class="section">
 <h3>AWARDS</h3>
 
-Won silver medals in national-level Russian competitive programming Olympiads during high school.
+Won silver medals in national-level ICPC-style programming competitions during high school.
 </div>
